@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "829e7b40914ea1c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "16cc5a2637982606",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aca636619c86b4e2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "726eed895a6d0402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Allies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Allies"
+            }
+          },
+          {
+            "id": "554234562bf3337a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Ассоциация Магов Люменсии.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ассоциация Магов Люменсии"
+            }
+          },
+          {
+            "id": "ed30d9df4d3b5bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tressym.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tressym"
+            }
+          },
+          {
+            "id": "c8b64ac9d25a3b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thalion Evensar/Stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stats"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2a26531fd0d2760",
+    "type": "split",
+    "children": [
+      {
+        "id": "e646c282ba2884fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1393c1e1f0d882a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a5e9520cdbf8a5fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "976a83c30124bfbf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4363322d66e358d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1395567411b58a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d15f3833b1797250",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Thalion Evenstar/Stats.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Stats"
+            }
+          },
+          {
+            "id": "de5a8f0f8944afd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Thalion Evenstar/Stats.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Stats"
+            }
+          },
+          {
+            "id": "6c7776535831e409",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1eedc98da63743c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Thalion Evenstar/Stats.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Stats"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c8b64ac9d25a3b03",
+  "lastOpenFiles": [
+    "Tressym.md",
+    "Factions/Ассоциация Магов Люменсии.md",
+    "Factions/Аркана Супрема.md",
+    "Thalion Evensar/Inventory.md",
+    "Factions",
+    "New folder",
+    "Thalion Evensar/Stats.md",
+    "Thalion Evensar/Spells.md",
+    "Thalion Evensar/Backstory.md",
+    "Thalion Evensar",
+    "Thalion Evenstar.md",
+    "Ассоциация Магов Люменсии.md",
+    "Аркана Супрема.md",
+    "Quests.md",
+    "Spells.md",
+    "Stats.md",
+    "Backstory.md",
+    "Allies.md",
+    "Allies",
+    "Places",
+    "People",
+    "Thalion Evenstar/Thalion Evenstar.md",
+    "Thalion Evenstar/Stone Bear.md",
+    "Thalion Evenstar/Stats.md",
+    "Thalion Evenstar/Tressym.md",
+    "Thalion Evenstar/Thalion Evenstar/Stats.md",
+    "Thalion Evenstar/Thalion Evenstar/Backstory.md",
+    "Thalion Evenstar/Thalion Evenstar/Quests.md",
+    "Thalion Evenstar/Thalion Evenstar/Inventory.md",
+    "Thalion Evenstar/Thalion Evenstar/Spells.md",
+    "Thalion Evenstar/Thalion Evenstar",
+    "Thalion Evenstar/Quests.md",
+    "Thalion Evenstar/Spells.md",
+    "Pasted image 20250417170322.png",
+    "Thalion Evenstar"
+  ]
+}
