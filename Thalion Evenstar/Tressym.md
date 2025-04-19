@@ -25,3 +25,4 @@ Languages:
 - Elfish
 - Dwarfish
 - Can't speak
+- Speak with animals

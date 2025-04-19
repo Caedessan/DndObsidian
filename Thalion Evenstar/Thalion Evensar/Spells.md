@@ -1,9 +1,9 @@
 #character
 Spellcasting ability: Int
-Spell save DC: 13
-Spell attack bonus: +5
+Spell save DC: 14
+Spell attack bonus: +6
 
-##### Cantrips:
+##### Cantrips: 4+1
 <details>
   <summary><b>Shocking Grasp Touch 1d8 lightning</b></summary>
 Shocking Grasp<br>
@@ -48,9 +48,22 @@ Components: V, S<br>
 Duration: 1 round<br>
 You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.<br>
 </details>
+<details>
+  <summary><b>Mold Earth</b></summary>
+Transmutation cantrip<br>
+Casting Time: 1 action<br>
+Range: 30 feet<br>
+Components: S<br>
+Duration: Instantaneous or 1 hour<br>
+You choose a portion of dirt or stone that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:<br>
+If you target an area of loose earth, you can instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away. This movement doesn’t have enough force to cause damage.<br>
+You cause shapes, colors, or both to appear on the dirt or stone, spelling out words, creating images, or shaping patterns. The changes last for 1 hour.<br>
+If the dirt or stone you target is on the ground, you cause it to become difficult terrain. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain. This change lasts for 1 hour.<br>
+If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.<br>
+</details>
 
-##### Known spells:10
-##### Prepared spells: 6
+##### Known spells:12
+##### Prepared spells: 8
 ##### First level spells
 Spell slots: 4
 <details>
@@ -111,7 +124,7 @@ The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch
 [[Tressym]]
 
 ##### Second level spells
-Spell slots: 2
+Spell slots: 3 
 <details>
   <summary><b>Summon Beast</b></summary>
   2nd-level conjuration<br>
@@ -132,5 +145,30 @@ Components: V<br>
 Duration: Instantaneous<br>
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.<br>
 </details>
+<details>
+  <summary><b>Mirror Image</b></summary>
+2nd-level illusion<br>
+Casting Time: 1 action<br>
+Range: Self<br>
+Components: V, S<br>
+Duration: 1 minute<br>
+Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it’s impossible to track which image is real. You can use your action to dismiss the illusory duplicates.<br>
+Each time a creature targets you with an attack during the spell’s duration, roll a d20 to determine whether the attack instead targets one of your duplicates.<br>
+If you have three duplicates, you must roll a 6 or higher to change the attack’s target to a duplicate. With two duplicates, you must roll an 8 or higher. With one duplicate, you must roll an 11 or higher.<br>
+A duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. The spell ends when all three duplicates are destroyed.<br>
+A creature is unaffected by this spell if it can’t see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight.<br>
+</details>
+<details>
+  <summary><b>Misty Step 30ft bonus action</b></summary>
+2nd-level Evocation<br>
+Casting Time: 1 Action<br>
+Range: Self (30-foot cone)<br>
+Components: S, M (a vial of meltwater)<br>
+Duration: Instantaneous<br>
+A burst of cold energy emanates from you in a 30-foot cone. Each creature in that area must make a Constitution saving throw. On a failed save, a creature takes 3d8 cold damage and is hindered by ice formations for 1 minute, or until it or another creature within reach of it uses an action to break away the ice. A creature hindered by ice has its speed reduced to 0. On a successful save, a creature takes half as much damage and isn’t hindered by ice.<br>
+At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, increase the cold damage by 1d8 for each slot level above 2nd.<br>
+</details>
+
+
 
 [[Stone Bear]]

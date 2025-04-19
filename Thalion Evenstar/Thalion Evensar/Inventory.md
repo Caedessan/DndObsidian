@@ -1,8 +1,8 @@
 #character 
 CP:
-SP:
+SP: 9
 EP:
-GP: 20
+GP: 69
 PP:
 
 
@@ -25,4 +25,6 @@ a bit of fleece
 3 charcoal lumps
 3 sets of herbs
 
+3 healing potions 2d4+2 hp
+1 mre
 

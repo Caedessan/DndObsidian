@@ -1,16 +1,16 @@
 #character
-High elf conjuration wizard 3 
+High elf conjuration wizard 4
 
 Attacks:
 Shortsword +4 1d6+2 piercing
 
 AC: 12
-HP: 14
+HP: 26
 Speed: 30ft
 - Str: 8 (-1)
 - Dex: 14 (+2)
 - Con: 14 (+2)
-- Int: 16 (+3)
+- Int: 18 (+4)
 - Wis: 10 
 - Cha: 13 (+1)
 Proficiency: 
