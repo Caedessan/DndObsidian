@@ -1,3 +1,4 @@
+#Character
 Spellcasting ability: Int
 Spell save DC: 13
 Spell attack bonus: +5

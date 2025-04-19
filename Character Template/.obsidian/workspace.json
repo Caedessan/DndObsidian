@@ -25,68 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character/Stats.md",
+                "file": "People/Some NPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stats"
-            }
-          },
-          {
-            "id": "b725960d75764bb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quests"
-            }
-          },
-          {
-            "id": "940c96c7f4c42cec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quests"
-            }
-          },
-          {
-            "id": "70f2ed26d6500f85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Squad 9 – Codename Burnback.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Squad 9 – Codename Burnback"
-            }
-          },
-          {
-            "id": "22f677a5f0c43c91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quests"
+              "title": "Some NPC"
             }
           }
         ]
@@ -235,16 +179,20 @@
   },
   "active": "d723c82d1f7877ec",
   "lastOpenFiles": [
-    "Dain Varek.md",
-    "Quests.md",
-    "Allies.md",
-    "Places/Greenflower.md",
-    "Places/Blackstone.md",
-    "Factions/Squad 9 – Codename Burnback.md",
+    "People/Some NPC.md",
+    "Factions/Some Faction.md",
+    "Places/Some Place.md",
+    "Allies/Some ally.md",
     "Character/Stats.md",
     "Character/Spells.md",
     "Character/Inventory.md",
     "Character/Backstory.md",
+    "Quests.md",
+    "Dain Varek.md",
+    "Allies.md",
+    "Places/Greenflower.md",
+    "Places/Blackstone.md",
+    "Factions/Squad 9 – Codename Burnback.md",
     "Allies/Toma.md",
     "Allies/roach.md",
     "Allies/Luthwick.md",
@@ -262,9 +210,6 @@
     "People/Dunkan.md",
     "People",
     "Places",
-    "People/Eye Sword.md",
-    "People/Greybeard.md",
-    "People/Black Dragon.md",
     "Dain Varek"
   ]
 }
