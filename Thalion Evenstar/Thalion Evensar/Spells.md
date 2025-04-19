@@ -159,7 +159,7 @@ A duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits a dupl
 A creature is unaffected by this spell if it can’t see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight.<br>
 </details>
 <details>
-  <summary><b>Misty Step 30ft bonus action</b></summary>
+  <summary><b>Rime's Binding Ice 30ft cone con save 3d8 cold speed 0 on hit for 1 min</b></summary>
 2nd-level Evocation<br>
 Casting Time: 1 Action<br>
 Range: Self (30-foot cone)<br>
