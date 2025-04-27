@@ -2,8 +2,8 @@
 Fighter 5
 
 Attacks:
-Scimitar +5 1d6+3 piercing/slashing 
-Dagger +5 1d4+3 piercing/slashing throwable 20ft /60ft disadvantage
+Scimitar +6 1d6+3 piercing/slashing 
+Dagger +6 1d4+3 piercing/slashing throwable 20ft /60ft disadvantage
 [[Eye Sword]] +7 1d10+3 piercing/slashing +1d4 acid on crit
 
 AC: 15?
@@ -15,7 +15,7 @@ Speed: 40ft
 - Int: 8 (-1)
 - Wis: 13 (+1)
 - Cha: 11
-Proficiency: 
+Proficiency: +3
 - Str save
 - Con save
 - Athletics

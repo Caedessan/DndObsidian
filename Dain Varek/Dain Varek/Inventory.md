@@ -1,8 +1,8 @@
 #character
 CP:
-SP:
+SP: 5
 EP:
-GP: 187
+GP: 234
 PP:
 
 Studded leather armor 12 + dex AC
@@ -10,6 +10,6 @@ Studded leather armor 12 + dex AC
 scimitar
 [[Eye Sword]]
 50g deed in [[Greenflower]]
-sus healing potion
 3 dragon fangs
+5 magic crystals
 

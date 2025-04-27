@@ -20,20 +20,91 @@
             }
           },
           {
-            "id": "7bdde71107471c52",
+            "id": "ccad258bcd5c8a61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allies/Luthwick Thimbletoes.md",
+                "file": "People/Audaxir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luthwick Thimbletoes"
+              "title": "Audaxir"
+            }
+          },
+          {
+            "id": "9f9b07d5e1c4bebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dain Varek/Inventory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inventory"
+            }
+          },
+          {
+            "id": "3278b007b6b8f168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Kira.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kira"
+            }
+          },
+          {
+            "id": "0ed9723f278033b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/John Blackbeard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "John Blackbeard"
+            }
+          },
+          {
+            "id": "c9dceb5b40b6b1db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Margaret Quill.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Margaret Quill"
+            }
+          },
+          {
+            "id": "23e068731d48dbb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quests"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -177,37 +248,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e06452cbbbd4de9",
+  "active": "23e068731d48dbb0",
   "lastOpenFiles": [
-    "People/Quillimara.md",
-    "Allies/Luthwick Thimbletoes.md",
-    "People/Aeternis.md",
+    "People/Tristian Braven.md",
+    "People/Kira.md",
+    "Places/Dandelmar.md",
+    "People/Margaret Quill.md",
+    "Quests.md",
+    "People/John Blackbeard.md",
+    "Dain Varek/Inventory.md",
+    "People/Demon Lord.md",
+    "Dain Varek/Stats.md",
     "People/Audaxir.md",
-    "Allies/Jeremy Schwartz.md",
+    "Countries/Ar Norzurd.md",
+    "Countries/Emberhold.md",
+    "Countries/Ostoria.md",
+    "Countries/Erebor.md",
+    "Countries/Cymeluma.md",
+    "Countries/Nuswana.md",
+    "Places/Dandelmar.png",
+    "Places/Greenflower.md",
+    "Places/Blackstone.md",
+    "Countries",
+    "People/Aeternis.md",
+    "People/Eye Sword.md",
     "Allies/Michael Voss.md",
+    "Allies/Luthwick Thimbletoes.md",
+    "People/Quillimara.md",
+    "Allies/Jeremy Schwartz.md",
     "Allies/Rik-Tann.md",
     "Character/Backstory.md",
-    "Quests.md",
-    "Character/Stats.md",
-    "Allies/Tomo Stevens.md",
-    "Allies/Apollyon.md",
-    "People/Edmund Graye.md",
-    "People/Edward Bright.md",
-    "Places/Greenflower.md",
-    "People/Dunkan Green.md",
-    "Dain Varek.md",
-    "Allies.md",
-    "Places/Blackstone.md",
-    "Factions/Squad 9 – Codename Burnback.md",
-    "Character/Spells.md",
-    "Character/Inventory.md",
     "Character",
     "Factions",
-    "People/Sil 'Needle' Renn.md",
-    "People/Draskel 'Twigs' Mern.md",
-    "People/Kael 'Redhead' Varnis.md",
     "Allies",
-    "People/Demon Lord.md",
     "People",
     "Places",
     "Dain Varek"
