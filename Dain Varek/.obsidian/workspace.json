@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Quests.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -39,16 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dain Varek/Actions.md",
+                "file": "Dain Varek/Inventory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actions"
+              "title": "Inventory"
             }
           },
           {
-            "id": "d29a268065c71da5",
+            "id": "7deb22826ca8fc18",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,6 +59,46 @@
               },
               "icon": "lucide-file",
               "title": "Base stats"
+            }
+          },
+          {
+            "id": "722064f7f9a61ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dain Varek/Actions.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Actions"
+            }
+          },
+          {
+            "id": "d29a268065c71da5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Places/Dandelmar.png"
+              },
+              "icon": "lucide-image",
+              "title": "Dandelmar"
+            }
+          },
+          {
+            "id": "9c17d124f28fee32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Childen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Childen"
             }
           },
           {
@@ -233,13 +273,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d29a268065c71da5",
+  "active": "7deb22826ca8fc18",
   "lastOpenFiles": [
+    "Dain Varek/Inventory.md",
+    "Quests.md",
+    "Olduran.md",
+    "Allies/Jeremy Schwarz.md",
     "Dain Varek/Actions.md",
     "Dain Varek/Base stats.md",
-    "Quests.md",
+    "Places/Childen.md",
+    "Places/Dandelmar.png",
+    "People/Aeternis.md",
+    "People/Audaxir.md",
+    "People/Margaret Quill.md",
+    "People/Quillimara.md",
     "People/Eye Sword.md",
-    "Dain Varek/Inventory.md",
     "Dain Varek.png",
     "Places/Treven.md",
     "Allies/Tomo Stevens.md",
@@ -248,7 +296,6 @@
     "People/Tussel Durn.md",
     "People/Demon Lord.md",
     "People/Gary Glifford.md",
-    "Places/Dandelmar.png",
     "Places/Blackstone.md",
     "People/John Blackbeard.md",
     "Dain Varek/Backstory.md",
@@ -256,14 +303,7 @@
     "Dain Varek/Spells.md",
     "People/Tristian Braven.md",
     "People/Kira.md",
-    "People/Margaret Quill.md",
-    "People/Audaxir.md",
     "Countries/Ar Norzurd.md",
-    "Countries/Emberhold.md",
-    "Countries/Ostoria.md",
-    "Countries/Erebor.md",
-    "Countries/Cymeluma.md",
-    "Countries/Nuswana.md",
     "Countries",
     "Character",
     "Factions",

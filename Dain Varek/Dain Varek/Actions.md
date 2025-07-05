@@ -1,7 +1,7 @@
 Attacks: 
 Scimitar +7 1d6+3 piercing/slashing 
-Dragon Dagger +8 1d4+6 piercing/slashing throwable 20ft /60ft disadvantage 
-[[Eye Sword]] +8 1d10+3 piercing/slashing +1d4 acid on crit
+Dragon Dagger +8 1d4+7 piercing/slashing throwable 20ft /60ft disadvantage 
+[[Eye Sword]] +8 1d10+5 piercing/slashing +1d4 acid on crit
 
 <details>
   <summary><b>Second wind</b></summary>

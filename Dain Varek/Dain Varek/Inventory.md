@@ -2,10 +2,10 @@
 CP:
 SP: 5
 EP:
-GP: 478
+GP: 278
 PP: 2 
 
-Studded leather armor 12 + dex AC
+Splint 17 AC dis stealth
 1 dagger
 2 dragon teeth daggers +1
 scimitar
@@ -13,4 +13,6 @@ scimitar
 50g deed in [[Greenflower]]
 1 dragon fangs
 5 magic crystals
-
+1 bottle of hydra dick potion
+2 alchemist fire 2d8 + burning?
+gladius 15g
