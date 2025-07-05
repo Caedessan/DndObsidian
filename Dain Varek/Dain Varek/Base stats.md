@@ -7,7 +7,7 @@ int: 8
 wis: 13
 cha: 11
 profficiency: 3
-armor: 15
+armor: 14
 speed: 30
 hp: 60
 ---
