@@ -1,6 +1,6 @@
 #Character
 High Elf Bladesinger Wizard 3
-
+Background: giant foundling\ gladiator?
 AC: 15
 HP: 17
 Speed: 30 ft
