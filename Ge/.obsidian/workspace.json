@@ -51,12 +51,14 @@
             "id": "d2576aee3b9b2051",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Ge.png"
+                "file": "Character/Stats.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Ge"
+              "icon": "lucide-file",
+              "title": "Stats"
             }
           }
         ],
@@ -206,13 +208,13 @@
   },
   "active": "d2576aee3b9b2051",
   "lastOpenFiles": [
+    "Character/Inventory.md",
     "Character/Stats.md",
     "Ge.png",
-    "Character/Inventory.md",
+    "Character/Backstory.md",
     "Character/Spells.md",
     "Character/The Thunderbringer v7.1.md",
     "Character/Actions.md",
-    "Character/Backstory.md",
     "People/Some NPC.md",
     "Factions/Some Faction.md",
     "Places/Some Place.md",

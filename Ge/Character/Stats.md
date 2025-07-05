@@ -1,8 +1,9 @@
 #Character
 
 Aarakocra Mechanist Artificer 3
+Background: Ruined
 https://www.dndbeyond.com/subclasses/1067826-mechanist
-AC: 16
+AC: 15
 HP: 21
 Speed: 30ft (fly)
 - Str: 10
@@ -61,6 +62,13 @@ You have mastered ranged weapons and can make shots that others find impossible.
 Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.<br>
 Your ranged weapon attacks ignore half and three-quarters cover.<br>
 Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If that attack hits, you add +10 to the attack's damage.<br>
+</details>
+<details>
+  <summary><b>Alert</b></summary>
+Always on the lookout for danger, you gain the following benefits:<br>
+You can't be surprised while you are conscious.<br>
+You gain a +5 bonus to initiative.<br>
+Other creatures don't gain advantage on attack rolls against you as a result of being unseen by you.<br>
 </details>
 <details>
   <summary><b>The Right Tool for the Job</b></summary>
