@@ -20,91 +20,75 @@
             }
           },
           {
-            "id": "ccad258bcd5c8a61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Audaxir.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Audaxir"
-            }
-          },
-          {
-            "id": "9f9b07d5e1c4bebe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dain Varek/Inventory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inventory"
-            }
-          },
-          {
-            "id": "3278b007b6b8f168",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Kira.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kira"
-            }
-          },
-          {
-            "id": "0ed9723f278033b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/John Blackbeard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "John Blackbeard"
-            }
-          },
-          {
-            "id": "c9dceb5b40b6b1db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Margaret Quill.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Margaret Quill"
-            }
-          },
-          {
-            "id": "23e068731d48dbb0",
+            "id": "652eae60feeb7018",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Quests.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Quests"
             }
+          },
+          {
+            "id": "072499ded1f86dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dain Varek/Actions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Actions"
+            }
+          },
+          {
+            "id": "d29a268065c71da5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dain Varek/Base stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Base stats"
+            }
+          },
+          {
+            "id": "07ad68955d7f2d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Eye Sword.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eye Sword"
+            }
+          },
+          {
+            "id": "ba2462502b6567b4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Dain Varek.png"
+              },
+              "icon": "lucide-image",
+              "title": "Dain Varek"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,6 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dain Varek/Base stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Base stats"
             }
           },
           {
@@ -235,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,20 +229,34 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "23e068731d48dbb0",
+  "active": "d29a268065c71da5",
   "lastOpenFiles": [
+    "Dain Varek/Actions.md",
+    "Dain Varek/Base stats.md",
+    "Quests.md",
+    "People/Eye Sword.md",
+    "Dain Varek/Inventory.md",
+    "Dain Varek.png",
+    "Places/Treven.md",
+    "Allies/Tomo Stevens.md",
+    "People/Marshal Ash.md",
+    "Places/Dandelmar.md",
+    "People/Tussel Durn.md",
+    "People/Demon Lord.md",
+    "People/Gary Glifford.md",
+    "Places/Dandelmar.png",
+    "Places/Blackstone.md",
+    "People/John Blackbeard.md",
+    "Dain Varek/Backstory.md",
+    "stats.py",
+    "Dain Varek/Spells.md",
     "People/Tristian Braven.md",
     "People/Kira.md",
-    "Places/Dandelmar.md",
     "People/Margaret Quill.md",
-    "Quests.md",
-    "People/John Blackbeard.md",
-    "Dain Varek/Inventory.md",
-    "People/Demon Lord.md",
-    "Dain Varek/Stats.md",
     "People/Audaxir.md",
     "Countries/Ar Norzurd.md",
     "Countries/Emberhold.md",
@@ -266,18 +264,7 @@
     "Countries/Erebor.md",
     "Countries/Cymeluma.md",
     "Countries/Nuswana.md",
-    "Places/Dandelmar.png",
-    "Places/Greenflower.md",
-    "Places/Blackstone.md",
     "Countries",
-    "People/Aeternis.md",
-    "People/Eye Sword.md",
-    "Allies/Michael Voss.md",
-    "Allies/Luthwick Thimbletoes.md",
-    "People/Quillimara.md",
-    "Allies/Jeremy Schwartz.md",
-    "Allies/Rik-Tann.md",
-    "Character/Backstory.md",
     "Character",
     "Factions",
     "Allies",

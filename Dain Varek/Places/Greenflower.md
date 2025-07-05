@@ -1,5 +1,5 @@
 #Places
 [[Nuswana]]
 Деревня где все началось, находится в пышном лесу
-Глава: [[Dunkan Green]]
+Глава: [[Marshal Ash]]
 Бармен: [[Edward Bright]]

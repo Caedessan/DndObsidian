@@ -1,20 +1,17 @@
-#character
-Fighter 5
-
-Attacks:
-Scimitar +6 1d6+3 piercing/slashing 
-Dagger +6 1d4+3 piercing/slashing throwable 20ft /60ft disadvantage
-[[Eye Sword]] +7 1d10+3 piercing/slashing +1d4 acid on crit
-
-AC: 15?
-HP: 44
-Speed: 40ft 
-- Str: 16 (+3)
-- Dex: 15 (+2)
-- Con: 14 (+2)
-- Int: 8 (-1)
-- Wis: 13 (+1)
-- Cha: 11
+---
+fighter: 6
+str: 18
+dex: 15
+con: 14
+int: 8
+wis: 13
+cha: 11
+profficiency: 3
+armor: 15
+speed: 30
+hp: 60
+---
+#character 
 Proficiency: +3
 - Str save
 - Con save
@@ -23,7 +20,11 @@ Proficiency: +3
 - Intimidation
 - Perception
 Feats:
-- Two-Weapon Fighting:  When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+- Thrown weapon fighting
+<details>
+  <summary><b>details</b></summary>
+You can draw a weapon that has the thrown property as part of the attack you make with the weapon. In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
+</details>
 - Mobile
 <details>
   <summary><b>details</b></summary>
@@ -32,9 +33,8 @@ Your speed increases by 10 feet.<br>
 When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.<br>
 When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.<br>
 </details>
-
 - Extra Attack: Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 Languages:
 - Common
 
-
+![[Dain Varek.png]]

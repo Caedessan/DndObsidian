@@ -2,14 +2,15 @@
 CP:
 SP: 5
 EP:
-GP: 234
-PP:
+GP: 478
+PP: 2 
 
 Studded leather armor 12 + dex AC
-3 daggers
+1 dagger
+2 dragon teeth daggers +1
 scimitar
 [[Eye Sword]]
 50g deed in [[Greenflower]]
-3 dragon fangs
+1 dragon fangs
 5 magic crystals
 
