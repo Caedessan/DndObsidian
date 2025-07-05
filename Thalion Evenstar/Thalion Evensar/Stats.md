@@ -1,5 +1,5 @@
 #character
-High elf conjuration wizard 4
+High elf conjuration wizard 5
 
 Attacks:
 Shortsword +4 1d6+2 piercing
@@ -13,7 +13,7 @@ Speed: 30ft
 - Int: 18 (+4)
 - Wis: 10 
 - Cha: 13 (+1)
-Proficiency: 
+Proficiency: +3
 - Int save
 - Wis save
 - Arcana
@@ -39,3 +39,4 @@ Languages:
 - Elfish
 - Dwarfish
 
+![[Thalion Evenstar.png]]

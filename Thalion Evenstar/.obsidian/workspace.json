@@ -20,13 +20,67 @@
             }
           },
           {
-            "id": "a735d8b6b2f80816",
+            "id": "2d41673cb10eb351",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "StoneBear.png"
+              },
+              "icon": "lucide-image",
+              "title": "StoneBear"
+            }
+          },
+          {
+            "id": "f26ef88043537a83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quests"
+            }
+          },
+          {
+            "id": "1cf1834db717e72a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thalion Evensar/Inventory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inventory"
+            }
+          },
+          {
+            "id": "6a06f3b4d968eff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thalion Evensar/Stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stats"
+            }
+          },
+          {
+            "id": "da9fa407cd0098bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Thalion Evensar/Spells.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -34,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -181,39 +235,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a735d8b6b2f80816",
+  "active": "da9fa407cd0098bf",
   "lastOpenFiles": [
+    "StoneBear.png",
+    "Thalion Evenstar.png",
+    "Tressym.png",
+    "Thalion Evensar/Stats.md",
+    "Thalion Evensar/Inventory.md",
+    "People/Delar.md",
     "Quests.md",
     "Thalion Evensar/Spells.md",
-    "Thalion Evensar/Stats.md",
+    "Allies/Vargan.md",
+    "Factions/Аркана Супрема.md",
+    "Factions/Ассоциация Магов Люменсии.md",
+    "Stone Bear.md",
     "Tressym.md",
+    "Places/Settleguard.md",
+    "Places/Faring.md",
+    "People/Camilla.md",
+    "People/Bregan.md",
+    "Places/Ayr'Caldur.md",
+    "Places/MikTala.md",
     "People/Djaar.md",
     "People/Tamela.md",
-    "Thalion Evensar/Inventory.md",
     "Places/Firsted.md",
     "Elantera.jpg",
     "Allies/Fransis Walgsinhem.md",
     "Allies/Silver.md",
-    "Allies/Vargan.md",
-    "People/Bregan.md",
     "Factions/Some Faction.md",
-    "Places/MikTala.md",
-    "Places/Ayr Kaldur.md",
     "Places/Sylvenia.md",
     "Places/Kastarian Republic.md",
     "Places/Republic of Lumencia.md",
-    "Places/Myrtana.md",
-    "People/Edward Breus.md",
-    "Tressym.png",
-    "Factions/Ассоциация Магов Люменсии.md",
-    "Factions/Аркана Супрема.md",
     "Factions",
     "New folder",
-    "Thalion Evensar/Backstory.md",
     "Thalion Evensar",
-    "Thalion Evenstar.md",
-    "Ассоциация Магов Люменсии.md",
-    "Аркана Супрема.md",
     "Allies",
     "Places",
     "People",

@@ -124,7 +124,7 @@ The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch
 [[Tressym]]
 
 ##### Second level spells
-Spell slots: 3 
+Spell slots: 3
 <details>
   <summary><b>Summon Beast</b></summary>
   2nd-level conjuration<br>
@@ -169,6 +169,29 @@ A burst of cold energy emanates from you in a 30-foot cone. Each creature in tha
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, increase the cold damage by 1d8 for each slot level above 2nd.<br>
 </details>
 
-
-
 [[Stone Bear]]
+
+##### Third level spells
+Spell slots: 2
+<details>
+  <summary><b>Fireball 150ft 20ft dex save 8d6 fire</b></summary>
+3rd-level evocation<br>
+Casting Time: 1 action<br>
+Range: 150 feet<br>
+Components: V, S, M (a tiny ball of bat guano and sulfur)<br>
+Duration: Instantaneous<br>
+A bright streak flashes from your pointing finger to a point you choose within range then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot radius must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried.<br>
+At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.<br>
+</details>
+<details>
+  <summary><b>Hypnotic Pattern 120ft con</b></summary>
+3rd-level illusion<br>
+Casting Time: 1 action<br>
+Range: 120 feet<br>
+Components: S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)<br>
+Duration: Concentration, up to 1 minute<br>
+You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a Wisdom saving throw. On a failed save, the creature becomes charmed for the duration. While charmed by this spell, the creature is incapacitated and has a speed of 0.<br>
+The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.<br>
+</details>
+
+
