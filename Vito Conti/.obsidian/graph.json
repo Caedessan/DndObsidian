@@ -11,41 +11,48 @@
       "query": "Allies",
       "color": {
         "a": 1,
-        "rgb": 65331
-      }
-    },
-    {
-      "query": "Character",
-      "color": {
-        "a": 1,
-        "rgb": 2303
-      }
-    },
-    {
-      "query": "Factions",
-      "color": {
-        "a": 1,
-        "rgb": 16384000
+        "rgb": 2001408
       }
     },
     {
       "query": "Places",
       "color": {
         "a": 1,
-        "rgb": 16737792
+        "rgb": 11367169
+      }
+    },
+    {
+      "query": "Character",
+      "color": {
+        "a": 1,
+        "rgb": 1704089
+      }
+    },
+    {
+      "query": "People",
+      "color": {
+        "a": 1,
+        "rgb": 49800
+      }
+    },
+    {
+      "query": "Factions",
+      "color": {
+        "a": 1,
+        "rgb": 11141891
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.993229166666667,
-  "lineSizeMultiplier": 2.0140625,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.5,
-  "repelStrength": 9.89583333333333,
-  "linkStrength": 0.567708333333333,
-  "linkDistance": 174,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
   "scale": 0.7132754626224423,
-  "close": false
+  "close": true
 }
